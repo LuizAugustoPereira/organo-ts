@@ -1,8 +1,7 @@
 import './Banner.css'
-import React from 'react'
 
 interface BannerProps {
-    src: string,
+    src: string
     alt?: string
 }
 
